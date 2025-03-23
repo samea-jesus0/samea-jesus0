@@ -14,7 +14,7 @@
 
 | 🌱 Atualmente estou aprendendo **Javascript, Python, AWS Cloud e Java**
 
-| 📂 Estou cursando na área da tecnologia
+| 📂 [Projetos e Atividades na Universidade](https://github.com/impacta-projetos-academicos)
 
 ![samea-jesus0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samea-jesus0&theme=omni&show_icons=true&hide_border=true&layout=compact)
 
