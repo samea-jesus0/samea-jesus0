@@ -2,10 +2,6 @@
   <img src="https://media.giphy.com/media/oh2euZp5xkglq/giphy.gif?cid=ecf05e47g9813tt2ytgy1r90bp3vdq3z2a55899jzwcx087d&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Cappuccino (sanrio) comendo biscoitos" width="200px">
 </div>
 <br>
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7C0D0&width=435&lines=Sejam+bem-vindos(as)+ao+meu+perfil!+;Aqui+voc%C3%AA+encontra+meus+projetos+%3AD" alt="Typing SVG" /></a>
-  
-</div>
 
 <h1 align="center">Olá! Sou a Sâmea Silva.</h1>
 <h3 align="center">Aqui você encontra minhas ideias e projetos universitários.</h3>
