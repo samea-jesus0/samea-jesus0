@@ -4,15 +4,6 @@
 <br>
 
 <h1 align="center">Olá! Sou a Sâmea Silva.</h1>
-<h3 align="center">Aqui você encontra minhas ideias e projetos universitários.</h3>
-
-| 💻 Atualmente estou colaborando no [Coffee4Code](https://github.com/COFFEE4C0DE)
-
-| 🌱 Atualmente estou aprendendo **Javascript, Python, AWS Cloud e Java**
-
-| 📂 [Projetos e Atividades na Universidade](https://github.com/impacta-projetos-academicos)
-
-![samea-jesus0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samea-jesus0&theme=omni&show_icons=true&hide_border=true&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
